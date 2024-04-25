@@ -10,4 +10,4 @@ The Flutter Portfolio project is an upcoming endeavor aimed at showcasing my pro
 - **Contact Information:** Include contact details for potential inquiries or collaborations.
 
 ## Coming Soon
-Stay tuned for updates as the Flutter Portfolio project develops.
+Stay tuned for updates as the Flutter Portfolio project develops
